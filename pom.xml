@@ -48,6 +48,11 @@
             <!--  4.x version are java 7  -->
             <version>3.7.1.201504261725-r</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.8</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
